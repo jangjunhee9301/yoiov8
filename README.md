@@ -65,6 +65,7 @@ pip install -U pip wheel gdown
 ```
 gdown https://drive.google.com/uc?id=1hs9HM0XJ2LPFghcn7ZMOs5qu5HexPXwM
 ```
+![동아리 마지막](https://github.com/user-attachments/assets/6732e08c-278f-41ae-9ecb-643492eb3260)
 
 ```
 gdown https://drive.google.com/uc?id=1m0d8ruUY8RvCP9eVjZw4Nc8LAwM8yuGV
