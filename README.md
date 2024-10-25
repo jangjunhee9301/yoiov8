@@ -65,6 +65,7 @@ pip install -U pip wheel gdown
 ```
 gdown https://drive.google.com/uc?id=1hs9HM0XJ2LPFghcn7ZMOs5qu5HexPXwM
 ```
+아래 사진과 같이 나온다면 잘 되는중이니 기다리면 된다.
 ![동아리 마지막](https://github.com/user-attachments/assets/6732e08c-278f-41ae-9ecb-643492eb3260)
 
 ```
