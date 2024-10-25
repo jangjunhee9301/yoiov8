@@ -45,6 +45,7 @@ base가 아닌 native에서 실행
 conda create -n yolo python=3.8 -y
 ```
 이걸 입력하고 사진처럼 나온다면 조금 기다리면 된다.
+![동아리](https://github.com/user-attachments/assets/80fd8a79-fc4a-4c49-85e0-48595e8c419d)
 
 ```
 conda env list
