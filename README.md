@@ -43,6 +43,10 @@ base가 아닌 native에서 실행
    
  ```
 conda create -n yolo python=3.8 -y
+```
+이걸 입력하고 사진처럼 나온다면 조금 기다리면 된다.
+
+```
 conda env list
 conda activate yolo
  ```
