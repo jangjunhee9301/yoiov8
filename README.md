@@ -137,4 +137,11 @@ python3 detectY8.py
 ```
 이렇게 하면 카메라가 화면에 뜬다
 
+![동아리 1](https://github.com/user-attachments/assets/63ad5727-adac-4814-93ae-dcacae652f4e)
+![동아리 2](https://github.com/user-attachments/assets/49545802-35a9-4c4e-a43d-9cdb69e76d0b)
+
+
+https://github.com/user-attachments/assets/3798b2be-5fe2-4f59-98c2-2bf902f09581
+
+
 
